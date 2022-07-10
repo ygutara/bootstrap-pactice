@@ -1,0 +1,32 @@
+/* body {
+  height: 4000px;
+}
+
+.seeBorder {
+  border: 1px solid black;
+  z-index: 9999;
+} */
+
+.jumbotron {
+  height: fit-content;
+  padding-top: 6rem;
+  padding-bottom: -10rem;
+  background-color: rgb(110, 196, 224);
+}
+
+.projectStyle {
+  background-color: #bcdae4;
+}
+
+.contactStyle {
+  background-color: #6ec4e0;
+}
+
+.footerStyle,
+.navbarStyle {
+  background-color: #027297;
+}
+
+section {
+  padding-top: 5rem;
+}
